@@ -16,3 +16,5 @@ export 'src/encoder/itf.dart';
 export 'src/encoder/msi.dart';
 export 'src/export/svg.dart';
 export 'src/layout/barcode_layout.dart';
+export 'src/widgets/barcode_painter.dart';
+export 'src/widgets/barcode_view.dart';

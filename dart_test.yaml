@@ -1,0 +1,5 @@
+tags:
+  decode:
+    # Decodes rendered PNGs with the zbarimg command-line tool. Run only
+    # these with `flutter test -t decode`, skip them with `-x decode`.
+    timeout: 2x
