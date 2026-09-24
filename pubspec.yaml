@@ -1,0 +1,27 @@
+name: barcode_gen
+description: >-
+  Maintained 1D barcode generator: EAN/UPC with add-ons, Code 128 and GS1-128,
+  Code 39, Code 93, ITF-14, Codabar and MSI. Pixel-snapped widget, painter, SVG.
+version: 0.1.0
+homepage: https://abdeldjalilchougui.biz/
+repository: https://github.com/AbeldjalilChougui/barcode_gen
+issue_tracker: https://github.com/AbeldjalilChougui/barcode_gen/issues
+topics:
+  - barcode
+  - ean
+  - code128
+  - svg
+  - widget
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
