@@ -4,8 +4,8 @@ description: >-
   Code 39, Code 93, ITF-14, Codabar and MSI. Pixel-snapped widget, painter, SVG.
 version: 0.1.0
 homepage: https://abdeldjalilchougui.biz/
-repository: https://github.com/AbeldjalilChougui/barcode_gen
-issue_tracker: https://github.com/AbeldjalilChougui/barcode_gen/issues
+repository: https://github.com/AbdeldjalilChougui/barcode_gen
+issue_tracker: https://github.com/AbdeldjalilChougui/barcode_gen/issues
 topics:
   - barcode
   - ean
